@@ -1,0 +1,4 @@
+name: MuchoLobbyInvClear
+version: '1.0-SNAPSHOT'
+main: mucho.more.MuchoLobbyInvClear
+api-version: 1.18
